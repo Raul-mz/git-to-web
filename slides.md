@@ -18,7 +18,7 @@ transition: slide-left
 mdc: true
 ---
 
-# Desde Git a la Web 
+# Desde Git a la Web en Pulpoline
 
  con GitHub Actions y GitHub Pages
 
